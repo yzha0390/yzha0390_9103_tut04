@@ -1,14 +1,8 @@
 # yzha0390_9103_tut04
 My first repository for IDEA9103
 
-This is my local change to the repo
-
-![An image of the Mona Lisa](assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-
-```
-function helloWorld() {
-console.log("Hello, world!");
-}
-```
+![An image of snow fall](assets/snow fall.png)
+![An image of snow fall accumulated](assets/snow fall+accumulated snow1.png)
+![An image of snow fall accumulated](assets/snow fall+accumulated snow2.png)
 
 > This is a blockquote.
